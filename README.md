@@ -1,4 +1,20 @@
+# SRM Badge Demo
 
+An ERC-721 NFT badge system deployed on Polygon Amoy testnet.
+
+## 🚀 Contract
+
+**Address:** `0xd3DCcCE2eD92Cf9C8062C6dc25532E21cbDA1189`  
+**Network:** Polygon Amoy  
+**Explorer:** [View on PolygonScan](https://amoy.polygonscan.com/address/0xd3DCcCE2eD92Cf9C8062C6dc25532E21cbDA1189)
+
+## 📋 Features
+
+- **Public Claim**: Anyone can claim one free badge per address
+- **Admin Mint**: Contract owner can mint badges for specific addresses
+- **ERC-721 Standard**: Fully compliant NFT contract using OpenZeppelin
+
+## 🛠️ Setup
 
 1. Install dependencies:
 ```bash
